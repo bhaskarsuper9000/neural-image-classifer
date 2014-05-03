@@ -1,0 +1,41 @@
+ASIP Project - single layer multiclass perceptron classifier
+============================================================
+
+===============================================================
+Procedure to clssify the image 
+===============================================================
+
+
+Step 1: Double click the executable to run the program
+
+Step 2: Enter the appropriate values in the respective fields
+        eg. Number of Classes=4 , Learning Rate=.5
+        Or  Number of classes=3 , Learning Rate=.1
+
+Step 3: Click on "Select AOI" button to select the image
+
+Step 4: Select an area of interest by free hand tool
+
+Step 5: After selecting double click on the selected region
+
+Step 6: Total number of regions to be selected is equal to the number of classes input by the user
+
+Step 7: A pop window will appear after selecdting the appropriate number of regions
+
+Step 8: Click on the "Train" button to train the perceptron and wait untill a pop window appears showin training is completed
+
+Step 9: Click on the "Clasiify" buttton to classify the image
+
+Step 10: A new window opens that shows the classified image with different colours assigned to each class
+
+Step 11: Assignment of colours to each class is random
+
+
+Note: To calssify again the next image repeat spep 2 onwards oe 1
+
+
+
+============================================================
+Bhaskar Bandyopadhyay 	133310018
+Mahesh Saini		133310021
+Dushyant Sabharwal	133310020

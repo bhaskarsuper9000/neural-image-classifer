@@ -1,0 +1,35 @@
+ASIP Project - single layer multiclass perceptron classifier
+============================================================
+
+Algorithm Used
+==============
+
+Preprocessing:
+1. The computation law is modified to
+	y = 1 if SIGMA( wi=xi) > threshold
+	y = o if SIGMA( wi=xi) < threshold
+
+2. Absorb ? as a weight
+3. Negate all the zero-class example
+
+4.Perceptron Training Algorithm
+	1. Start with a random value of w	ex: <0,0,0…>
+	
+	2. Test for wxi > 0
+		If the test succeeds for i=1,2,…n
+			then return w
+	3. Modify w, w_next = w_prev + x_fail
+
+The linear seperability criteria
+=============================================
+Whatever be the initial choice of weights and 
+whatever be the vector chosen for testing,PTA 
+converges if the vectors are from a linearly 
+separable function
+
+
+
+============================================================
+Bhaskar Bandyopadhyay 	133310018
+Mahesh Saini		133310021
+Dushyant Sabharwal	133310020

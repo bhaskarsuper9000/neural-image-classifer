@@ -1,0 +1,55 @@
+ASIP Project - single layer multiclass perceptron classifier
+
+=========================================================================
+Note: Black regions in the output images shows the selected training area
+=========================================================================
+
+ 
+Test Result 1:
+-----------------------------------------------------
+
+Input image name: testross.jpg
+Input Parameters: 1.Number of Classes= 3
+                  2.Learning Rate=    .1
+
+Output Image Name:testross_3_classes.jpg
+-----------------------------------------------------
+
+
+Test Result 2:
+-----------------------------------------------------
+Input image name: testross.jpg
+Input Parameters: 1.Number of Classes= 4
+                  2.Learning Rate=    .05
+
+Output Image Name:testross_4_classes.jpg
+-----------------------------------------------------
+
+
+Test Result 3:
+-----------------------------------------------------
+Input image name: test.jpg
+Input Parameters: 1.Number of Classes= 3
+                  2.Learning Rate=    .1
+
+Output Image Name:test_3_classes.jpg
+-----------------------------------------------------
+
+Test Result 4:
+-----------------------------------------------------
+Input image name: powai-ikonos.jpg
+Input Parameters: 1.Number of Classes= 3
+                  2.Learning Rate=    .05
+
+Output Image Name:powai-ikonos_3_classes.jpg
+-----------------------------------------------------
+
+
+
+
+
+============================================================
+Bhaskar Bandyopadhyay 	133310018
+Mahesh Saini		133310021
+Dushyant Sabharwal	133310020
+
